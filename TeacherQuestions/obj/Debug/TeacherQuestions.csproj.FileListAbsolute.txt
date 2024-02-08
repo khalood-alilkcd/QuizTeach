@@ -1,0 +1,7 @@
+D:\projects_C#\Design Priciples\TeacherQuestions\TeacherQuestions\bin\Debug\TeacherQuestions.exe.config
+D:\projects_C#\Design Priciples\TeacherQuestions\TeacherQuestions\bin\Debug\TeacherQuestions.exe
+D:\projects_C#\Design Priciples\TeacherQuestions\TeacherQuestions\bin\Debug\TeacherQuestions.pdb
+D:\projects_C#\Design Priciples\TeacherQuestions\TeacherQuestions\obj\Debug\TeacherQuestions.csproj.AssemblyReference.cache
+D:\projects_C#\Design Priciples\TeacherQuestions\TeacherQuestions\obj\Debug\TeacherQuestions.csproj.CoreCompileInputs.cache
+D:\projects_C#\Design Priciples\TeacherQuestions\TeacherQuestions\obj\Debug\TeacherQuestions.exe
+D:\projects_C#\Design Priciples\TeacherQuestions\TeacherQuestions\obj\Debug\TeacherQuestions.pdb
